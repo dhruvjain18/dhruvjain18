@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js, Hadoop**
 
-- 💬 Ask me about **Python, Competitive Programming, Python Framework, Web Development, DBMS, OOPS, Operating System**
+- 💬 Ask me about **Python, Competitive Programming, Python Framework, Web Development, Data Analysis, DBMS, OOPS, Operating System**
 
 - 📫 How to reach me **dhruvrjain19@gmail.com**
 
