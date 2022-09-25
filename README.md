@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Dhruv Jain</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Jain 👨‍💻</h1>
 <h3 align="center">A passionate Software Developer and Data Science Enthusiastic from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjain18&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjain18" /> </p>
-
 - 🌱 I’m currently learning **React.js, Hadoop**
 
 - 💬 Ask me about **Python, Competitive Programming, Python Framework, Web Development, Data Analysis, DBMS, OOPS, Operating System**
 
 - 📫 How to reach me **dhruvrjain19@gmail.com**
+
+- 🏫 **Poornima College of Engineering, Jaipur** (IT)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Nq7GxfgoC9o6QbF6dwggBP8la-ueTMTW/view?usp=sharing](https://drive.google.com/file/d/1Nq7GxfgoC9o6QbF6dwggBP8la-ueTMTW/view?usp=sharing)
 
