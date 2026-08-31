@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Money Expenses Tracker** and other awesome projects.
 - 🌱 I’m currently learning **Advanced Web Development, AI integrations, and System Architecture**.
 - 💬 Ask me about **React, JavaScript, and Frontend Development**.
-- 📫 How to reach me: **[Your Email / LinkedIn]**
+- 📫 How to reach me: **[dhruvrjain19@gmail.com]**
 
 ---
 
